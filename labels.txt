@@ -1,0 +1,43 @@
+0 corydoras sterbai catfish
+1 panda corydoras catfish
+2 black angelfish
+3 platinum angelfish
+4 veiltail betta
+5 palkat betta
+6 super delta betta
+7 halfmoon betta
+8 crowntail betta
+9 ranchu goldfish
+10 comet goldfish
+11 common goldfish
+12 bubble eye goldfish
+13 rummy nose tetra
+14 skirt tetra
+15 cardinal tetra
+16 neon tetra
+17 albino axolotl
+18 melanoid axolotl
+19 leucistic axolotl
+20 wild type axolotl
+21 rainbow shark
+22 bala shark
+23 apollo shark
+24 harlequin shark
+25 violet blushing shark
+26 roseline shark
+27 redtail shark
+28 albino guppy
+29 tux guppy
+30 moneywort
+31 monstera
+32 peace lily
+33 mosquito fern
+34 amazon sword plant
+35 ludwigia
+36 vallisneria
+37 anubia
+38 cryptocoryne
+39 water wisteria
+40 java fern
+41 marimo balls
+42 duckweed
